@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervync",
+        "uuid": 634813,
+        "checksum": "cmxl4i"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
